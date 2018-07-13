@@ -10,12 +10,12 @@ factors.pop
 factors.shift
 puts factors
 
-end  
+
 
 non_prime_array = []
 puts non_prime_array.size
    factors.each do |factor|
 
    end
-
+end
 prime?(5)
