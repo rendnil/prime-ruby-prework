@@ -3,7 +3,7 @@
 
 def prime?(number)
 
-factors = (1..number).Array
+factors = (1..number)
   
 puts factors
 
