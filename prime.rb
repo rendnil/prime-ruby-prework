@@ -18,7 +18,7 @@ non_prime_array = []
    factors.each do |factor|
      if number%factor == 0
        non_prime_array.push(factor)
-   end
+    end
  puts non_prime_array
 
 
@@ -26,4 +26,6 @@ non_prime_array = []
   
    
 end
+
+
 prime?(5)
