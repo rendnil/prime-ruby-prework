@@ -3,6 +3,11 @@
 
 def prime?(number)
 
+if number<0
+  false
+end  
+
+
 factors = Array(1..number)
   
 ##puts factors
