@@ -10,10 +10,10 @@ def prime?(number)
 
   factors = Array(1..number)
   
-puts factors
+##puts factors
   factors.pop
   factors.shift
-puts factors
+##puts factors
 
 
 
