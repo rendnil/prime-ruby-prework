@@ -20,6 +20,8 @@ non_prime_array = []
        non_prime_array.push(factor)
    end
  puts non_prime_array
+
+
  non_prime_array.size == 0
   
    
