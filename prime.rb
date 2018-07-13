@@ -12,6 +12,9 @@ puts factors
 
 end  
 
-
+non_prime_array = []
+puts non_prime_array.size
+factors.each do |factor|
+  
 
 prime?(5)
