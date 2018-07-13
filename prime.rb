@@ -6,7 +6,9 @@ def prime?(number)
 factors = Array(1..number)
   
 puts factors
-
+factors.pop
+factors.shift
+puts factors
 
 end  
 
