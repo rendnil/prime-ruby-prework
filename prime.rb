@@ -34,4 +34,3 @@ def prime?(number)
 end
 
 
-prime?(17)
