@@ -29,4 +29,4 @@ non_prime_array = []
 end
 
 
-prime?(5)
+prime?(4)
