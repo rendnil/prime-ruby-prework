@@ -3,7 +3,7 @@
 
 def prime?(number)
 
-factors = (1..number)
+factors = (1..number).to_a
   
 puts factors
 
