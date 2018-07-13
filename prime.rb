@@ -13,9 +13,15 @@ puts factors
 
 
 non_prime_array = []
-puts non_prime_array.size
+##puts non_prime_array.size
+   
    factors.each do |factor|
-
+     if number%factor == 0
+       non_prime_array.push(factor)
    end
+ puts non_prime_array
+ non_prime_array.size == 0
+  
+   
 end
 prime?(5)
