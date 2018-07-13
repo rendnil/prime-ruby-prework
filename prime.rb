@@ -5,7 +5,7 @@ def prime?(number)
 
   if number<0
     false
-  end  
+   end  
   else
 
   factors = Array(1..number)
