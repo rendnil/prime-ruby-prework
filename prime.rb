@@ -23,7 +23,7 @@ non_prime_array = []
  puts non_prime_array
 
 
- non_prime_array.size == 0
+ puts non_prime_array.size == 0
   
    
 end
