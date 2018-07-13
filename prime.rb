@@ -33,4 +33,4 @@ puts factors
 end
 end
 
-prime?(5)
+
