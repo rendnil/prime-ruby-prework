@@ -30,7 +30,7 @@ puts factors
 
  non_prime_array.size == 0
   
- end
+end
 end
 
 prime?(5)
