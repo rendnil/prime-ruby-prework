@@ -3,9 +3,13 @@
 
 def prime?(number)
 
-factors =  
+factors = (1..number).range() 
   
-  
+puts factors
 
 
 end  
+
+
+
+prime?(5)
